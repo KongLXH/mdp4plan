@@ -1,5 +1,4 @@
 .idea/
-.solution/
 
 *.DS_store
 
@@ -132,6 +131,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# over_size dat
 /rtdp_k/solution/
 /rtdp_l/solution/
 /rtdp_dobs/solution/
